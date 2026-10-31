@@ -1,0 +1,6 @@
+name: enterprise-platform-base
+runtime:
+  name: python
+  options:
+    virtualenv: ../../venv
+description: Core infrastructure layer - shared Postgres, Ingress, and base namespaces
